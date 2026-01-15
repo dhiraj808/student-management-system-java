@@ -13,3 +13,9 @@ A Java console-based application developed to manage student records using JDBC 
 - MySQL
 - JDBC
 - GitHub
+  
+## Key Learnings
+- JDBC connection handling
+- DAO design pattern
+- SQL CRUD operations
+- Exception handling in Java
