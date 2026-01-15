@@ -1,7 +1,7 @@
 
   import java.util.Scanner;
 
-    public class Mainapp {
+    public class MainApp {
 
         public static void main(String[] args) {
 
@@ -45,4 +45,5 @@
             }
         }
     }
+
 
